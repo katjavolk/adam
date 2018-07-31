@@ -1,0 +1,19 @@
+<svg width="93" height="72" viewBox="0 0 93 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<rect width="15.7612" height="15.8491" rx="2"/>
+</mask>
+<rect width="15.7612" height="15.8491" rx="2" transform="translate(3 5.96289)" stroke="#39FFC4" stroke-width="6" stroke-linejoin="round" mask="url(#path-1-inside-1)"/>
+<mask id="path-2-inside-2" fill="white">
+<rect width="15.7612" height="15.8491" rx="2"/>
+</mask>
+<rect width="15.7612" height="15.8491" rx="2" transform="translate(3 31.0566)" stroke="#39FFC4" stroke-width="6" stroke-linejoin="round" mask="url(#path-2-inside-2)"/>
+<mask id="path-3-inside-3" fill="white">
+<rect width="15.7612" height="15.8491" rx="2"/>
+</mask>
+<rect width="15.7612" height="15.8491" rx="2" transform="translate(3 56.1504)" stroke="#39FFC4" stroke-width="6" stroke-linejoin="round" mask="url(#path-3-inside-3)"/>
+<path d="M0 9.5L8.72388 17.1698L22.5149 0" transform="translate(1.5 2)" stroke="#39FFC4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 9.5L8.72388 17.1698L22.5149 0" transform="translate(1.5 52)" stroke="#39FFC4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 0H59" transform="translate(32 14)" stroke="#39FFC4" stroke-width="3" stroke-linecap="round"/>
+<path d="M0 0H59" transform="translate(32 39)" stroke="#39FFC4" stroke-width="3" stroke-linecap="round"/>
+<path d="M0 0H59" transform="translate(32 64)" stroke="#39FFC4" stroke-width="3" stroke-linecap="round"/>
+</svg>
